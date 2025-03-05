@@ -1,11 +1,19 @@
-# Neo4j GraphRAG Package for Python
+# Neo4j GraphRAG Python - Deep Research Fork
 
-The official Neo4j GraphRAG package for Python enables developers to build [graph retrieval augmented generation (GraphRAG)](https://neo4j.com/blog/graphrag-manifesto/) applications using the power of Neo4j and Python.
+This is a fork of the official [Neo4j GraphRAG package for Python](https://github.com/neo4j/neo4j-graphrag-python) for deep research purposes.
+
+## Original Package Description
+
+The Neo4j GraphRAG package for Python enables developers to build [graph retrieval augmented generation (GraphRAG)](https://neo4j.com/blog/graphrag-manifesto/) applications using the power of Neo4j and Python.
 As a first-party library, it offers a robust, feature-rich, and high-performance solution, with the added assurance of long-term support and maintenance directly from Neo4j.
+
+## Research Focus
+
+This fork is being used for deep research into GraphRAG applications and their potential applications in various domains.
 
 ## 📄 Documentation
 
-Documentation can be found [here](https://neo4j.com/docs/neo4j-graphrag-python/)
+For the original package documentation, visit [here](https://neo4j.com/docs/neo4j-graphrag-python/)
 
 ### Resources
 
@@ -405,5 +413,6 @@ poetry run pytest tests/e2e
 
 - [The official Neo4j Python driver](https://github.com/neo4j/neo4j-python-driver)
 - [Neo4j GenAI integrations](https://neo4j.com/docs/cypher-manual/current/genai-integrations/)
-#   g r a p h r a g - n e o 4 j - d e e p r e s e a r c h  
+#   g r a p h r a g - n e o 4 j - d e e p r e s e a r c h 
+ 
  
