@@ -1,9 +1,0 @@
-database,name,type,labelsOrTypes,properties
-neo4j,__entity__id,RANGE,__KGBuilder__,id
-neo4j,dune_vector_search,VECTOR,Chunk,embedding
-neo4j,house_fulltext,FULLTEXT,House,name
-neo4j,index_343aff4e,LOOKUP,,
-neo4j,index_f7700477,LOOKUP,,
-neo4j,person_fulltext,FULLTEXT,Person,name
-neo4j,planet_fulltext,FULLTEXT,Planet,"name, weather"
-neo4j,textchunk_fulltext,FULLTEXT,TextChunk,text

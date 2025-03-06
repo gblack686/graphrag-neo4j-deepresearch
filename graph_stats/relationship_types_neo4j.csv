@@ -1,9 +1,0 @@
-type,count,database
-FROM_DOCUMENT,0,neo4j
-NEXT_CHUNK,0,neo4j
-INTERACTS,0,neo4j
-SITUATED_AT,0,neo4j
-FROM_CHUNK,0,neo4j
-PARENT_OF,0,neo4j
-HEIR_OF,0,neo4j
-RULES,0,neo4j
