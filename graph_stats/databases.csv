@@ -1,0 +1,3 @@
+name,status,default,address,role,requestedStatus
+neo4j,online,True,p-075db98b-7c0b-0001.production-orch-0042.neo4j.io:7687,primary,online
+system,online,False,p-075db98b-7c0b-0001.production-orch-0042.neo4j.io:7687,primary,online

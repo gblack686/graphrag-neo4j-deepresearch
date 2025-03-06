@@ -1,0 +1,11 @@
+"""This example demonstrate how to embed a text into a vector
+using a local model served by Ollama.
+"""
+
+from neo4j_graphrag.embeddings import OllamaEmbeddings
+
+embeder = OllamaEmbeddings(
+    model="<model_name>",
+)
+res = embeder.embed_query("my question")
+print(res[:10])

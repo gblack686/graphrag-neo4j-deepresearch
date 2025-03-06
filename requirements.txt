@@ -1,0 +1,10 @@
+flask==3.0.2
+gunicorn==21.2.0
+python-dotenv==1.0.1
+neo4j
+neo4j-graphrag
+openai==1.12.0
+sentence-transformers==2.5.1
+numpy==1.26.4
+pandas==2.2.1
+requests==2.31.0 

@@ -1,0 +1,12 @@
+source,relationship,target,count
+__KGBuilder__:Person:__Entity__,FROM_CHUNK,__KGBuilder__:Chunk,24
+__KGBuilder__:Person:__Entity__,INTERACTS,__KGBuilder__:Person:__Entity__,23
+__KGBuilder__:Chunk,FROM_DOCUMENT,__KGBuilder__:Document,2
+__KGBuilder__:Person:__Entity__,PARENT_OF,__KGBuilder__:Person:__Entity__,2
+__KGBuilder__:Person:__Entity__,SITUATED_AT,__KGBuilder__:__Entity__:Location,1
+__KGBuilder__:Chunk,NEXT_CHUNK,__KGBuilder__:Chunk,1
+__KGBuilder__:__Entity__:Location,FROM_CHUNK,__KGBuilder__:Chunk,1
+__KGBuilder__:Person:__Entity__,HEIR_OF,__KGBuilder__:__Entity__:House,1
+__KGBuilder__:__Entity__:House,FROM_CHUNK,__KGBuilder__:Chunk,1
+__KGBuilder__:__Entity__:House,RULES,__KGBuilder__:__Entity__:Planet,1
+__KGBuilder__:__Entity__:Planet,FROM_CHUNK,__KGBuilder__:Chunk,1

@@ -1,0 +1,10 @@
+label,count,database
+__KGBuilder__,0,neo4j
+Document,0,neo4j
+Chunk,0,neo4j
+Person,0,neo4j
+__Entity__,0,neo4j
+Location,0,neo4j
+House,0,neo4j
+Planet,0,neo4j
+TextChunk,0,neo4j

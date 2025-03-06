@@ -1,0 +1,9 @@
+name,type,labelsOrTypes,properties
+__entity__id,RANGE,__KGBuilder__,id
+dune_vector_search,VECTOR,Chunk,embedding
+house_fulltext,FULLTEXT,House,name
+index_343aff4e,LOOKUP,,
+index_f7700477,LOOKUP,,
+person_fulltext,FULLTEXT,Person,name
+planet_fulltext,FULLTEXT,Planet,"name, weather"
+textchunk_fulltext,FULLTEXT,TextChunk,text

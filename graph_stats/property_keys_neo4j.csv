@@ -1,0 +1,10 @@
+propertyKey,usage_count,database
+id,26,neo4j
+name,22,neo4j
+chunk_index,22,neo4j
+index,3,neo4j
+text,3,neo4j
+embedding,3,neo4j
+path,1,neo4j
+createdAt,1,neo4j
+weather,1,neo4j
